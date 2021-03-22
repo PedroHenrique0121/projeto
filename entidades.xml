@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+ 
+<classes>  
+    <classe>  
+        <path>br.ueg.posse.si.p4.test.modelo.Usuario</path>
+    </classe>  
+    <classe>  
+        <path>br.ueg.posse.si.p4.test.modelo.Produto</path>
+    </classe> 
+    <classe>  
+        <path>br.ueg.posse.si.p4.test.modelo.Livro</path>
+    </classe> 
+     <classe>  
+        <path>br.ueg.posse.si.p4.test.modelo.Cliente</path>
+    </classe> 
+</classes>  
